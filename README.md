@@ -8,7 +8,7 @@ This project integrates a simple frontend with a Python Flask backend and utiliz
 
 ## 📽️ Project Demo
 
-▶️   Youtube video of how app works : 
+▶️   Youtube video of how app works : https://youtu.be/lcgIanOIlL0?si=K4GbS2Y26-OQ_5MI
 
 ---
 
